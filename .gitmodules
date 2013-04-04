@@ -1,0 +1,24 @@
+[submodule "cookbooks/ssh_known_hosts"]
+	path = cookbooks/ssh_known_hosts
+	url = git://github.com/opscode-cookbooks/ssh_known_hosts.git
+[submodule "cookbooks/java"]
+	path = cookbooks/java
+	url = git://github.com/opscode-cookbooks/java
+[submodule "site-cookbooks/extend_lwrp"]
+	path = site-cookbooks/extend_lwrp
+	url = git://github.com/dergachev/chef_extend_lwrp.git
+[submodule "site-cookbooks/root_ssh_agent"]
+	path = site-cookbooks/root_ssh_agent
+	url = git://github.com/dergachev/chef_root_ssh_agent.git
+[submodule "site-cookbooks/users"]
+	path = site-cookbooks/users
+	url = git://github.com/dergachev/chef_users.git
+[submodule "site-cookbooks/homesick_agent"]
+	path = site-cookbooks/homesick_agent
+	url = git://github.com/dergachev/chef_homesick_agent.git
+[submodule "cookbooks/homesick"]
+	path = cookbooks/homesick
+	url = git://github.com/fnichol/chef-homesick.git
+[submodule "cookbooks/openfire"]
+	path = cookbooks/openfire
+	url = git://github.com/yujiorama/chef-openfire.git

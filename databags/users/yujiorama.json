@@ -1,0 +1,14 @@
+{
+  "groups": [
+    "sysadmin"
+  ],
+  "comment": "Test User Name",
+  "password": "$1$WWiHB.c3$JWbaIiA6lSN.koG15.GBu0",
+  "ssh_keys": [
+    "your ssh public keys"
+  ],
+  "id": "yujiorama",
+  "shell": "/bin/bash",
+  "email": "yujiorama@gmail.com"
+}
+
